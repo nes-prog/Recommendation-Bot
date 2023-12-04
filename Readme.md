@@ -63,11 +63,6 @@ the project revolves around a Recommendation chatbot.  The bot is able to unders
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 * python version : 3.10.12
